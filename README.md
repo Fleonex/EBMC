@@ -27,6 +27,7 @@ python verilog_code_duplicator.py
 
 - To run EBMC on the duplicated code -- http://www.cprover.org/ebmc/manual/
 - To access QIF command list -- ./qif -h
+- For more verilog code -- https://github.com/ckarfa/FastSim/tree/master/benchmark_examples/CHStone
 
 There is no installation required for this script. Simply download the `verilog_code_duplicator.py` file and run it with Python.
 
